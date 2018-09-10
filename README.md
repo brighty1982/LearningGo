@@ -1,4 +1,5 @@
 # LearningGo
-Go tutorials. Let's nail this shit.
+
+- Commit for first pull request
 
 
